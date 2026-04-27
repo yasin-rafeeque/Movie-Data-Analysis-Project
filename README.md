@@ -24,6 +24,7 @@ This project analyzes factors influencing movie revenue using exploratory data a
 
 ## 📁 Files
 - `movie_eda.ipynb` → Full analysis notebook
+-  `movie.csv` -> Dataset
 
 ## 🚀 Conclusion
 The analysis shows that movie success is primarily driven by budget, production companies, and genre, rather than ratings alone.
